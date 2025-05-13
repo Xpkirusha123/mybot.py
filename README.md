@@ -5,10 +5,10 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 import logging
 
 TOKEN = "тут_твій_токен"
-ADMIN_ID = 123456789  # заміни на свій Telegram ID
+ADMIN_ID = 123456789  # 2131346744 Telegram ID
 PRICE_USD = 3
 
-bot = Bot(token=TOKEN)
+bot = Bot(7695157095:AAENDRQ5KN40ojfeLYW33Zs5fAbfY4zDg-k)
 dp = Dispatcher(bot)
 logging.basicConfig(level=logging.INFO)
 
