@@ -4,8 +4,8 @@ from aiogram.utils import executor
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 import logging
 
-TOKEN = "тут_твій_токен"
-ADMIN_ID = 123456789  # 2131346744 Telegram ID
+TOKEN = 7695157095
+ADMIN_ID =   2131346744 Telegram ID
 PRICE_USD = 3
 
 bot = Bot(7695157095:AAENDRQ5KN40ojfeLYW33Zs5fAbfY4zDg-k)
